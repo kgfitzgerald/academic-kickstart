@@ -72,6 +72,6 @@ email: "kgfitzgerald@u.northwestern.edu"
 #- Visitors
 ---
 
-I am a 4th year PhD student in [Northwestern University's Department of Statistics] (https://www.statistics.northwestern.edu) and a pre-doctoral fellow in the in the [Institute of Education Sciences (IES) interdisciplinary research training program] (https://ies.ed.gov/funding/grantsearch/details.asp?ID=1463). My research is in meta-analysis and generalizability methods, particularly as applied to the sustainable development and education policy contexts. 
+I am a 4th year PhD student in [Northwestern University's Department of Statistics] (https://www.statistics.northwestern.edu) and a pre-doctoral fellow in the [Institute of Education Sciences (IES) interdisciplinary research training program] (https://ies.ed.gov/funding/grantsearch/details.asp?ID=1463). My research is in meta-analysis and generalizability methods, particularly as applied to the sustainable development and education policy contexts. 
 
 When I’m not doing statistics, you can find me at Northwestern’s gorgeous lakefront, biking, hammocking, reading, or indulging in good food. I am also actively involved in Northwestern’s [Graduate Christian Fellowship] (http://studentorgs.northwestern.edu/gcf/) as an exec board member and small group coordinator and in my local church.
