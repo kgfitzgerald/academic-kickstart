@@ -51,7 +51,7 @@ time_format = "3:04 PM"
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "kgfitzgerald@u.northwestern.edu"
-phone = "469-644-6449"
+phone = ""
 address = """Northwestern University<br>
             Institute for Policy Research<br>
             2046 Sheridan Rd<br> 
@@ -147,7 +147,7 @@ sharing = true
   #   0: No search engine
   #   1: Academic (built-in)
   #   2: Algolia (https://www.algolia.com)
-  engine = 1
+  engine = 0
 
   # Configuration of Algolia search engine.
   # Paste the values from your Algolia dashboard.
