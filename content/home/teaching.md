@@ -19,6 +19,56 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
+  title = "Teaching Certificate Program"
+  company = "Northwestern University, Searle Center for Advancing Learning and Teaching"
+  company_url = "https://www.northwestern.edu/searle/initiatives/grad/teaching-certificate-program/index.html"
+  location = "Evanston, IL"
+  date_start = "2019-09-01"
+  date_end = "2020-06-30"
+  description = """Year-long series of seminars, workshops, and peer and faculty mentoring focused on improving student learning
+"""
+
+[[experience]]
+  title = "Curriculum Development Graduate Assistant"
+  company = "Northwestern University, Department of Statistics"
+  company_url = "https://www.statistics.northwestern.edu"
+  location = "Evanston, IL"
+  date_start = "2019-06-01"
+  date_end = "2019-09-30"
+  description = """Assist in curriculum development for introductory statistics course
+"""
+
+[[experience]]
+  title = "Consultant / Facilitator"
+  company = "IES Summer Training Institute: Cluster Randomized Trials"
+  company_url = "https://www.ipr.northwestern.edu/workshops/annual-summer-workshops/2019-crt/"
+  location = "Northwestern University, Institute for Policy Research"
+  date_start = "2018-07-01"
+  date_end = "2019-07-30"
+  description = """Served as consultant and group facilitator to professional education researchers designing a CRT
+"""
+
+[[experience]]
+  title = "Graduate Assistant"
+  company = "Meta-Analysis Training Institute"
+  company_url = "https://www.meta-analysis-training-institute.com"
+  location = "Loyola University"
+  date_start = "2019-07-28"
+  date_end = "2019-08-03"
+  description = """
+"""
+
+[[experience]]
+  title = "Co-Instructor"
+  company = "Northwestern Prison Education Program"
+  company_url = "https://sites.northwestern.edu/npep/"
+  location = "Cook County Department of Corrections"
+  date_start = "2019-07-24"
+  date_end = "2019-08-15"
+  description = """Intro to Social Statistics and Data Literacy. Designed and taught the course with two colleagues from NU Department of Statistics
+"""
+
+[[experience]]
   title = "Coordinated Learning Team Instructor & Individual Tutor"
   company = "Northwestern University, Department of Athletics"
   company_url = "https://nusports.com/index.aspx?path=acad"
@@ -39,8 +89,9 @@ date_format = "Jan 2006"
   company_url = "https://www.statistics.northwestern.edu"
   location = "Evanston, IL"
   date_start = "2018-09-01"
-  date_end = "2018-12-31"
-  description = """- STAT 330: Applied Statistics for Research (graduate course)
+  date_end = "2019-12-31"
+  description = """- STAT 330: Applied Statistics for Research (**Fall 2018**)
+  - STAT 202: Introduction to Statistics (**Fall 2019**)
 
 """
 

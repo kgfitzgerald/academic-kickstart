@@ -31,16 +31,6 @@ in anthropology and global health
 
 [[experience]]
   title = ""
-  company = "IES Summer Training Institute: Cluster Randomized Trials"
-  company_url = "https://www.ipr.northwestern.edu/workshops/annual-summer-workshops/2019-crt/"
-  location = "Northwestern University, Institute for Policy Research"
-  date_start = "2018-07-01"
-  date_end = "2019-07-01"
-  description = """Served as consultant and group facilitator to professional education 
-researchers designing a CRT
-"""
-[[experience]]
-  title = ""
   company = "First Presbyterian Church of Evanston"
   company_url = "https://firstpresevanston.org"
   location = "Evanston, IL"
