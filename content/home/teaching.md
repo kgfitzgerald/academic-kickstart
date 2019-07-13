@@ -29,6 +29,16 @@ date_format = "Jan 2006"
 """
 
 [[experience]]
+  title = "Co-Instructor"
+  company = "Northwestern Prison Education Program"
+  company_url = "https://sites.northwestern.edu/npep/"
+  location = "Cook County Department of Corrections"
+  date_start = "2019-07-24"
+  date_end = "2019-08-15"
+  description = """Intro to Social Statistics and Data Literacy. Designed and taught the course with two colleagues from NU Department of Statistics
+"""
+
+[[experience]]
   title = "Curriculum Development Graduate Assistant"
   company = "Northwestern University, Department of Statistics"
   company_url = "https://www.statistics.northwestern.edu"
@@ -59,16 +69,6 @@ date_format = "Jan 2006"
 """
 
 [[experience]]
-  title = "Co-Instructor"
-  company = "Northwestern Prison Education Program"
-  company_url = "https://sites.northwestern.edu/npep/"
-  location = "Cook County Department of Corrections"
-  date_start = "2019-07-24"
-  date_end = "2019-08-15"
-  description = """Intro to Social Statistics and Data Literacy. Designed and taught the course with two colleagues from NU Department of Statistics
-"""
-
-[[experience]]
   title = "Coordinated Learning Team Instructor & Individual Tutor"
   company = "Northwestern University, Department of Athletics"
   company_url = "https://nusports.com/index.aspx?path=acad"
@@ -90,8 +90,10 @@ date_format = "Jan 2006"
   location = "Evanston, IL"
   date_start = "2018-09-01"
   date_end = "2019-12-31"
-  description = """- STAT 330: Applied Statistics for Research (**Fall 2018**)
-  - STAT 202: Introduction to Statistics (**Fall 2019**)
+  description = """
+  - STAT 330: Applied Statistics for Research (Fall 2018)
+  
+  - STAT 202: Introduction to Statistics (Fall 2019)
 
 """
 
