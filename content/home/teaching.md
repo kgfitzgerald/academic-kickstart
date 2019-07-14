@@ -50,26 +50,6 @@ date_format = "Jan 2006"
 """
 
 [[experience]]
-  title = "Consultant / Facilitator"
-  company = "IES Summer Training Institute: Cluster Randomized Trials"
-  company_url = "https://www.ipr.northwestern.edu/workshops/annual-summer-workshops/2019-crt/"
-  location = "Northwestern University, Institute for Policy Research"
-  date_start = "2018-07-01"
-  date_end = "2019-07-30"
-  description = """
-"""
-
-[[experience]]
-  title = "Graduate Assistant"
-  company = "Meta-Analysis Training Institute"
-  company_url = "https://www.meta-analysis-training-institute.com"
-  location = "Loyola University"
-  date_start = "2019-07-28"
-  date_end = "2019-08-03"
-  description = """
-"""
-
-[[experience]]
   title = "Coordinated Learning Team Instructor & Individual Tutor"
   company = "Northwestern University, Department of Athletics"
   company_url = "https://nusports.com/index.aspx?path=acad"
@@ -95,6 +75,26 @@ date_format = "Jan 2006"
   - STAT 202: Introduction to Statistics (*Fall 2019*)
   - STAT 330: Applied Statistics for Research (*Fall 2018*)
 
+"""
+
+[[experience]]
+  title = "Consultant / Facilitator"
+  company = "IES Summer Training Institute: Cluster Randomized Trials"
+  company_url = "https://www.ipr.northwestern.edu/workshops/annual-summer-workshops/2019-crt/"
+  location = "Northwestern University, Institute for Policy Research"
+  date_start = "2018-07-01"
+  date_end = "2019-07-30"
+  description = """
+"""
+
+[[experience]]
+  title = "Graduate Assistant"
+  company = "Meta-Analysis Training Institute"
+  company_url = "https://www.meta-analysis-training-institute.com"
+  location = "Loyola University"
+  date_start = "2019-07-28"
+  date_end = "2019-08-03"
+  description = """
 """
 
 [[experience]]
