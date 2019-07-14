@@ -29,13 +29,14 @@ date_format = "Jan 2006"
 """
 
 [[experience]]
-  title = "Co-Instructor"
+  title = "Instructor"
   company = "Northwestern Prison Education Program"
   company_url = "https://sites.northwestern.edu/npep/"
   location = "Cook County Department of Corrections"
   date_start = "2019-07-24"
   date_end = "2019-08-15"
-  description = """Intro to Social Statistics and Data Literacy. Designed and taught the course with two colleagues from NU Department of Statistics
+  description = """Intro to Social Statistics and Data Literacy. 
+  Designed and taught the course with two colleagues from NU Department of Statistics
 """
 
 [[experience]]
@@ -45,7 +46,7 @@ date_format = "Jan 2006"
   location = "Evanston, IL"
   date_start = "2019-06-01"
   date_end = "2019-09-30"
-  description = """Assist in curriculum development for introductory statistics course
+  description = """Assisted in curriculum development for STAT 202: Introduction to Statistics
 """
 
 [[experience]]
@@ -55,7 +56,7 @@ date_format = "Jan 2006"
   location = "Northwestern University, Institute for Policy Research"
   date_start = "2018-07-01"
   date_end = "2019-07-30"
-  description = """Served as consultant and group facilitator to professional education researchers designing a CRT
+  description = """
 """
 
 [[experience]]
@@ -75,12 +76,12 @@ date_format = "Jan 2006"
   location = "Evanston, IL"
   date_start = "2018-09-01"
   date_end = ""
-  description = """- STAT 202: Introduction to Statistics
-- STAT 210: Introductory Statistics for the Social Sciences
-- STAT 325: Survey Sampling
-- STAT 350: Regression Analysis
-- MATH 220: Differential Calculus of One Variable Functions
-- PSYCH 201: Statistical Methods in Psychology
+  description = """- STAT 202: Introduction to Statistics (*Winter, Spring, Summer 2019*)
+- STAT 210: Introductory Statistics for the Social Sciences (*Fall 2018*)
+- STAT 325: Survey Sampling (*Fall 2018*)
+- STAT 350: Regression Analysis (*Winter 2019*)
+- MATH 220: Differential Calculus of One Variable Functions (*Winter 2019*)
+- PSYCH 201: Statistical Methods in Psychology (*Summer 2019*)
 
 """
 [[experience]]
@@ -91,9 +92,8 @@ date_format = "Jan 2006"
   date_start = "2018-09-01"
   date_end = "2019-12-31"
   description = """
-  - STAT 330: Applied Statistics for Research (Fall 2018)
-  
-  - STAT 202: Introduction to Statistics (Fall 2019)
+  - STAT 202: Introduction to Statistics (*Fall 2019*)
+  - STAT 330: Applied Statistics for Research (*Fall 2018*)
 
 """
 
