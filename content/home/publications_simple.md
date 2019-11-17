@@ -10,4 +10,4 @@ subtitle = ""
 +++
 
 - Miller, J., **Fitzgerald, K**., Smith, A., & Young, S. Geophagy among a cohort of Kenyan women with mixed HIV status: a longitudinal analysis. *American
-Journal of Tropical Medicine & Hygiene*. In press.
+Journal of Tropical Medicine & Hygiene. 101(3),* 654 - 660.

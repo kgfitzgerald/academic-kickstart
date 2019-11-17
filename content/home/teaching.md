@@ -45,7 +45,7 @@ date_format = "Jan 2006"
   company_url = "https://www.statistics.northwestern.edu"
   location = "Evanston, IL"
   date_start = "2019-06-01"
-  date_end = "2019-09-30"
+  date_end = "2019-12-15"
   description = """Assisted in curriculum development for STAT 202: Introduction to Statistics
 """
 
@@ -55,7 +55,7 @@ date_format = "Jan 2006"
   company_url = "https://nusports.com/index.aspx?path=acad"
   location = "Evanston, IL"
   date_start = "2018-09-01"
-  date_end = ""
+  date_end = "2019-07-31"
   description = """- STAT 202: Introduction to Statistics (*Winter, Spring, Summer 2019*)
 - STAT 210: Introductory Statistics for the Social Sciences (*Fall 2018*)
 - STAT 325: Survey Sampling (*Fall 2018*)
