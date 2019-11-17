@@ -1,12 +1,14 @@
 +++
+
 # Tag Cloud widget.
 widget = "tag_cloud"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true # Activate this widget? true/false
-weight = 50  # Order that this section will appear.
+weight = 60  # Order that this section will appear.
 
 title = "Working Papers & Books"
 subtitle = ""
+
 +++
 
 - Ismay, C., Kim, A., Kuyper, A., Tipton, E. & Fitzgerald, K. G.
