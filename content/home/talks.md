@@ -1,69 +1,20 @@
 +++
-# A Recent and Upcoming Talks section created with the Pages widget.
-# This section displays recent talks from `content/talk/`.
-
-widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
+# Tag Cloud widget.
+widget = "tag_cloud"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
-weight = 70  # Order that this section will appear.
+active = true # Activate this widget? true/false
+weight = 60  # Order that this section will appear.
 
-title = "Presentations"
+title = "Talks"
 subtitle = ""
-
-[content]
-  # Page type to display. E.g. post, talk, or publication.
-  page_type = "talk"
-  
-  # Choose how much pages you would like to display (0 = all pages)
-  count = 0
-  
-  # Choose how many pages you would like to offset by
-  offset = 0
-
-  # Page order. Descending (desc) or ascending (asc) date.
-  order = "desc"
-
-  # Filter posts by a taxonomy term.
-  [content.filters]
-    tag = ""
-    category = ""
-    publication_type = ""
-    exclude_featured = false
-    exclude_past = false
-    exclude_future = false
-    
-[design]
-  # Toggle between the various page layout types.
-  #   1 = List
-  #   2 = Compact
-  #   3 = Card
-  #   4 = Citation (publication only)
-  view = 1
-  
-[design.background]
-  # Apply a background color, gradient, or image.
-  #   Uncomment (by removing `#`) an option to apply it.
-  #   Choose a light or dark text color by setting `text_color_light`.
-  #   Any HTML color name or Hex value is valid.
-
-  # Background color.
-  # color = "navy"
-  
-  # Background gradient.
-  # gradient_start = "DeepSkyBlue"
-  # gradient_end = "SkyBlue"
-  
-  # Background image.
-  # image = "background.jpg"  # Name of image in `static/img/`.
-  # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
-
-  # Text color (true=light or false=dark).
-  # text_color_light = true  
-  
-[advanced]
- # Custom CSS. 
- css_style = ""
- 
- # CSS class.
- css_class = ""
 +++
+
+- **Fitzgerald, K**. What are we 95% confident about anyway? A software-embedded 	curriculum for learning statistical inference. Presentation at Association of Christians in the Mathematical Sciences bi-annual conference, Indiana 
+Wesleyan University, May 2019.
+
+- Tipton, E., Spybrook, J., Wang, Q., & **Fitzgerald, K**.  Assessing the Relevance of IES Funded Goal 3 and 4 Studies to Important Policy Populations. Paper presented at the Society for Research on Educational Effectiveness, Washington, DC, March 2019. 
+
+- **Fitzgerald, K**. Statistics for Social Good: Why your math degree is in demand in social policy and international development. Invited talk at Olivet 
+Nazarene University, Department of Mathematics, October 2018. 
+
+- Blaushild, N., **Fitzgerald, K**., & Kamel, A. Does AIT improve student outcomes? An analysis of referrals, attendance, and grades. Presented to stakeholders at Evanston Township High School, May 2018. 
