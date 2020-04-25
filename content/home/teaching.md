@@ -70,9 +70,10 @@ date_format = "Jan 2006"
   company_url = "https://www.statistics.northwestern.edu"
   location = "Evanston, IL"
   date_start = "2018-09-01"
-  date_end = "2019-12-31"
+  date_end = "2020-06-30"
   description = """
   - STAT 202: Introduction to Statistics (*Fall 2019*)
+  - STAT 302: Data Visualization (*Spring 2020*)
   - STAT 330: Applied Statistics for Research (*Fall 2018*)
 
 """
