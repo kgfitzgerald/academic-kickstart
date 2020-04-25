@@ -18,13 +18,12 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include statistical methods for synthesizing evidence in the social policy decision-making context.
+bio: My research interests include statistical methods for synthesizing and translating evidence in the social policy decision-making context.
 
 interests:
 - Meta-analysis
-- Generalizability
 - Social policy
-- Global development
+- Statistical cognition
 - Statistics education
 
 education:
@@ -71,6 +70,6 @@ email: "kgfitzgerald@u.northwestern.edu"
 #- Visitors
 ---
 
-I am a 4th year PhD student in Northwestern University's Department of Statistics and a pre-doctoral fellow in the [Institute of Education Sciences (IES) interdisciplinary research training program](https://ies.ed.gov/funding/grantsearch/details.asp?ID=1463). My research is in meta-analysis and generalizability methods, particularly as applied to the sustainable development and education policy contexts. I'm actively involved in Northwestern's [Statistics for Evidence-Based Policy and Practice (STEPP) Center](https://stepp.center), led by Drs. [Beth Tipton](https://www.bethtipton.com) and [Larry Hedges](https://www.ipr.northwestern.edu/faculty-experts/fellows/hedges.html).
+I am a 4th year PhD student in Northwestern University's Department of Statistics and a pre-doctoral fellow in the [Institute of Education Sciences (IES) interdisciplinary research training program](https://ies.ed.gov/funding/grantsearch/details.asp?ID=1463). My research is in methods for synthesizing and translating statistical evidence, particularly as applied to the education policy context. I'm a Graduate Research Assistant with Northwestern's [Institute for Policy Research](https://www.ipr.northwestern.edu) and am actively involved in the [Statistics for Evidence-Based Policy and Practice (STEPP) Center](https://stepp.center), led by Drs. [Beth Tipton](https://www.bethtipton.com) and [Larry Hedges](https://www.ipr.northwestern.edu/faculty-experts/fellows/hedges.html).
 
 When I’m not doing statistics, you can find me at Northwestern’s gorgeous lakefront, biking, hammocking, reading, or indulging in good food. I am also an active member of Northwestern’s [Graduate Christian Fellowship](http://studentorgs.northwestern.edu/gcf/), serving as an exec board member and small group coordinator.
