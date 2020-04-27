@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Kaitlyn G. Fitzgerald
+name: Kaitlyn Fitzgerald
 
 # Username (this should match the folder name)
 authors:
