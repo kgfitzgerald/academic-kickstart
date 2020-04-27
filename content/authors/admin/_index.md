@@ -45,7 +45,7 @@ education:
 social:
 - icon: cv
   icon_pack: ai
-  link: static/files/cv.pdf
+  link: files/cv.pdf
 - icon: envelope
   icon_pack: fas
   link: "mailto:kgfitzgerald@u.northwestern.edu"  
