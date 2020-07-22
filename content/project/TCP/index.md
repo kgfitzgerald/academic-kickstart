@@ -1,6 +1,6 @@
 ---
 title: Curriculum Development
-summary: Co-designed Northwestern's Introductory Statistics curriculum and co-authored the [textbook](https://nulib.github.io/moderndive_book/index.html).
+summary: Co-designed Northwestern's Introductory Statistics curriculum and co-authored the [textbook](https://nulib.github.io/moderndive_book/index.html)
 
 date: "2016-04-27T00:00:00Z"
 
