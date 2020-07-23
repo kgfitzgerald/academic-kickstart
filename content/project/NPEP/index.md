@@ -2,10 +2,8 @@
 title: Northwestern Prison Education Program
 summary: Taught Introduction to Social Statistics and Data Literacy at the Cook County Department of Corrections
 
-date: "2016-04-27T00:00:00Z"
-
 # Optional external URL for project (replaces project detail page).
-external_link: """
+external_link: ""
 
 image:
   caption: 
