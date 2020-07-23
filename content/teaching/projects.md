@@ -41,10 +41,10 @@ subtitle = ""
   #   1 = List
   #   3 = Card
   #   5 = Showcase
-  view = 1
+  view = 5
 
   # For Showcase view, flip alternate rows?
-  flip_alt_rows = true
+  flip_alt_rows = false
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -53,7 +53,7 @@ subtitle = ""
   #   Any HTML color name or Hex value is valid.
   
   # Background color.
-   color = "#3b3b6d"
+  # color = "#3b3b6d"
   
   # Background gradient.
   # gradient_start = "DeepSkyBlue"
