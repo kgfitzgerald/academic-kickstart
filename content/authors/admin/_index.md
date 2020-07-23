@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include statistical methods for synthesizing and translating evidence in the social policy decision-making context.
+#bio: My research interests include statistical methods for synthesizing and translating #evidence in the social policy decision-making context.
 
 interests:
 - Meta-analysis
