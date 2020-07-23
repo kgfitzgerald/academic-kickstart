@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 65  # Order that this section will appear.
 
-title = "Highlights of Teaching Experience & Training"
-subtitle = ""
+title = "Experience & Training"
+subtitle = "Some Highlights"
 
 [content]
   # Page type to display. E.g. project.
