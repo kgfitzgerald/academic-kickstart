@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 65  # Order that this section will appear.
 
-title = "Experience & Training"
-subtitle = "Some highlights"
+title = "Highlights of Teaching Experience & Training"
+subtitle = ""
 
 [content]
   # Page type to display. E.g. project.
@@ -44,7 +44,7 @@ subtitle = "Some highlights"
   view = 5
 
   # For Showcase view, flip alternate rows?
-  flip_alt_rows = false
+  flip_alt_rows = true
 
 [design.background]
   # Apply a background color, gradient, or image.
