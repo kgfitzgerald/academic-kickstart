@@ -1,6 +1,6 @@
 ---
 title: "An evaluation of statistical methods for aggregate patterns of replication failure"
-authors: "Schauer, J.M., Fitzgerald, K.G., Peko-Spicer, S., Whalen, M.C.R., Zejnullahi, R., & Hedges, L.V." 
+authors:  
 - admin
 date: "2019-04-07T00:00:00Z"
 doi: ""
