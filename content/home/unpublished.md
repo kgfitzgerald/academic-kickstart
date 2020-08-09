@@ -12,8 +12,6 @@ subtitle = ""
 +++
 
 - Ismay, C., Kim, A., Kuyper, A., Tipton, E. & **Fitzgerald, K. G.**
-Introduction to Statistics and Data Science: A moderndive into R and the tidyverse. https://nulib.github.io/moderndive_book/index.html
+Introduction to Statistics and Data Science: A moderndive into R and the tidyverse. https://nustat.github.io/intro-stat-ds/
 
 - Tipton, E., Spybrook, J., **Fitzgerald, K. G.**, Wang, Q., Davidson, C. Towards a System of Evidence for All: Current Practices and Future Opportunities in 37 Randomized Trials. Revise and resubmit.
-
-- Schauer, J. M., **Fitzgerald, K. G.**, Peko-Spicer, S., Whalen, M.C.R., Zejnullahi, R., and Hedges, L. V. An evaluation of statistical methods for aggregate patterns of replication failure. Revise and resubmit.
