@@ -1,7 +1,7 @@
 ---
 title: "An evaluation of statistical methods for aggregate patterns of replication failure"
-authors:  
-- admin
+authors: ["Jacob M. Schauer", admin, "Sarah Peko-Spicer", "Mena C.R. Whalen", "Rrita Zejnullahi", "Larry V.Hedges"]
+
 date: "2019-04-07T00:00:00Z"
 doi: ""
 
