@@ -1,10 +1,10 @@
 ---
 title: "Geophagy among a cohort of Kenyan women with mixed HIV status: a longitudinal analysis"
 authors: 
-- [Joshua D. Miller](https://orcid.org/0000-0002-2171-856X)
+- Joshua D. Miller
 - admin
-- [Abigail L. Smith](https://abbylsmith.me)
-- [Sera L. Young](https://orcid.org/0000-0002-1763-1218)
+- Abigail L. Smith
+- Sera L. Young
 date: "2015-09-01T00:00:00Z"
 doi: "https://doi.org/10.4269/ajtmh.19-0149"
 
