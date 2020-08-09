@@ -25,8 +25,8 @@ tags:
 featured: false
 
 links:
-- name: PDF
-    link: files/aggregate_patterns_replication.pdf
+#- name: PDF
+#    link: files/aggregate_patterns_replication.pdf
 # url_pdf: http://arxiv.org/pdf/1512.04133v1
 #url_code: '#'
 #url_dataset: '#'
