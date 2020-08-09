@@ -2,7 +2,7 @@
 title: "An evaluation of statistical methods for aggregate patterns of replication failure"
 authors: ["Jacob M. Schauer", admin, "Sarah Peko-Spicer", "Mena C.R. Whalen", "Rrita Zejnullahi", "Larry V.Hedges"]
 
-date: "2019-04-07T00:00:00Z"
+date: "Forthcoming"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -24,9 +24,9 @@ abstract: Several programs of research have sought to assess the replicability o
 #- Source Themes
 #featured: false
 
-#links:
-#- name: PDF
-#    link: files/aggregate_patterns_replication.pdf
+links:
+- name: PDF
+    link: files/aggregate_patterns_replication.pdf
 # url_pdf: http://arxiv.org/pdf/1512.04133v1
 #url_code: '#'
 #url_dataset: '#'

@@ -5,7 +5,7 @@ authors:
 - admin
 - Abigail L. Smith
 - Sera L. Young
-date: "2015-09-01T00:00:00Z"
+date: "2019-09-04T00:00:00Z"
 doi: "https://doi.org/10.4269/ajtmh.19-0149"
 
 # Schedule page publish date (NOT publication's date).
