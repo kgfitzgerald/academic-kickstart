@@ -14,4 +14,3 @@ subtitle = ""
 - Ismay, C., Kim, A., Kuyper, A., Tipton, E. & **Fitzgerald, K. G.**
 Introduction to Statistics and Data Science: A moderndive into R and the tidyverse. https://nustat.github.io/intro-stat-ds/
 
-- Tipton, E., Spybrook, J., **Fitzgerald, K. G.**, Wang, Q., Davidson, C. Towards a System of Evidence for All: Current Practices and Future Opportunities in 37 Randomized Trials. Revise and resubmit.
