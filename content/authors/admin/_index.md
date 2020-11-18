@@ -23,6 +23,7 @@ organizations:
 interests:
 - Meta-analysis
 - Social policy
+- Data visualization
 - Statistical cognition
 - Statistics education
 
