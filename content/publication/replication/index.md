@@ -2,8 +2,8 @@
 title: "An evaluation of statistical methods for aggregate patterns of replication failure"
 authors: ["Jacob M. Schauer", admin, "Sarah Peko-Spicer", "Mena C.R. Whalen", "Rrita Zejnullahi", "Larry V.Hedges"]
 
-date: ""
-doi: ""
+date: "2021-03-19T00:00:00Z"
+doi: "https://projecteuclid.org/journals/annals-of-applied-statistics/volume-15/issue-1/An-evaluation-of-statistical-methods-for-aggregate-patterns-of-replication/10.1214/20-AOAS1387.short"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-08-01T00:00:00Z"
@@ -12,7 +12,7 @@ publishDate: "2020-08-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Annals of Applied Statistics"
