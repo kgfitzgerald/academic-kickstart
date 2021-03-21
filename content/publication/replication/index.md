@@ -4,6 +4,7 @@ authors: ["Jacob M. Schauer", admin, "Sarah Peko-Spicer", "Mena C.R. Whalen", "R
 
 date: "2021-03-19T00:00:00Z"
 doi: "10.1214/20-AOAS1387"
+url: "https://projecteuclid.org/journals/annals-of-applied-statistics/volume-15/issue-1/An-evaluation-of-statistical-methods-for-aggregate-patterns-of-replication/10.1214/20-AOAS1387.short"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-08-01T00:00:00Z"
@@ -18,7 +19,7 @@ publication_types: ["2"]
 publication: "Annals of Applied Statistics"
 publication_short: "AoAS"
 
-abstract: Several programs of research have sought to assess the replicability of scientific findings in different fields, including economics and psychology. These programs attempt to replicate several findings and use the results to say something about large-scale patterns of replicability in a field. However, little work has been done to understand the analytic methods used to do this, including what they are assessing and what their statistical properties are. This article examines several methods that have been used to study patterns of replicability in the social sciences. We describe in concrete terms how each method operationalizes the idea of ‘replication’ and examine various statistical properties, including bias, precision, and statistical power. We find that some analytic methods rely on an operational definition of replication that can be misleading. Other methods involve more sound definitions of replication, but most of these have limitations such as large bias and uncertainty or low power. The findings suggest that we should use caution interpreting the results of such analyses and that work on more accurate methods may be useful to future replication research efforts. (Forthcoming in *Annals of Applied Statistics*).  
+abstract: Several programs of research have sought to assess the replicability of scientific findings in different fields, including economics and psychology. These programs attempt to replicate several findings and use the results to say something about large-scale patterns of replicability in a field. However, little work has been done to understand the analytic methods used to do this, including what they are assessing and what their statistical properties are. This article examines several methods that have been used to study patterns of replicability in the social sciences. We describe in concrete terms how each method operationalizes the idea of ‘replication’ and examine various statistical properties, including bias, precision, and statistical power. We find that some analytic methods rely on an operational definition of replication that can be misleading. Other methods involve more sound definitions of replication, but most of these have limitations such as large bias and uncertainty or low power. The findings suggest that we should use caution interpreting the results of such analyses and that work on more accurate methods may be useful to future replication research efforts.
 
 
 
