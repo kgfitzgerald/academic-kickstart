@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Candidate
+role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
-- name: Department of Statistics Northwestern University
-  url: ""
+- name: Department of Mathematics, Physics, & Statistics Azusa Pacific University
+  url: "https://www.apu.edu/clas/mathphysics/"
 
 # Short bio (displayed in user profile at end of posts)
 #bio: My research interests include statistical methods for synthesizing and translating #evidence in the social policy decision-making context.
@@ -31,7 +31,7 @@ education:
   courses:
   - course: PhD in Statistics
     institution: Northwestern University
-    year: 2021 (expected)
+    year: 2021
   - course: MS in Statistics
     institution: Northwestern University
     year: 2018
@@ -49,11 +49,11 @@ social:
   link: files/cv.pdf
 - icon: envelope
   icon_pack: fas
-  link: "mailto:kgfitzgerald@u.northwestern.edu"  
+  link: "mailto:kfitzgerald@apu.edu"  
 
-#- icon: twitter
-  #icon_pack: fab
-  #link: https://twitter.com/GeorgeCushen
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/fitzgerald_kg
 #- icon: google-scholar
   #icon_pack: ai
   #link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -62,7 +62,7 @@ social:
   #link: https://github.com/kgfitzgerald
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "kgfitzgerald@u.northwestern.edu"
+email: "kfitzgerald@apu.edu"
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
@@ -71,10 +71,10 @@ email: "kgfitzgerald@u.northwestern.edu"
 #- Visitors
 ---
 
-I am a problem solver, critical thinker, interdisciplinary researcher, and statistics educator pursuing a Ph.D. in Statistics at Northwestern University, with anticipated graduation in June 2021. I have accepted a position as an Assistant Professor of Statistics at [Azusa Pacific University](https://www.apu.edu) and am excited to begin there in August 2021. 
+I am a problem solver, critical thinker, interdisciplinary researcher, and statistics educator serving as an Assistant Professor at [Azusa Pacific University](https://www.apu.edu). 
 
-I have a heart for undergraduate statistics education, which I think offers exciting opportunities to teach and to learn how to be better [*stewards of information*](https://katie-fitzgerald.netlify.app/teaching/). My research focuses on methods for evaluating, synthesizing, and translating statistical evidence in the social sciences, with particular experience in education policy and global development applications. This includes work in the areas of meta-analysis, data visualization, and statistical cognition.
+I have a heart for undergraduate statistics education, which I think offers exciting opportunities to teach and to learn how to be better [*stewards of information*](https://katie-fitzgerald.netlify.app/teaching/). My research focuses on methods for evaluating, synthesizing, and translating statistical evidence in the social sciences, with particular experience in education policy and global development applications. This includes work in the areas of meta-analysis, data visualization, and statistical cognition. I love engaging in interdisciplinary work and helping students discover how to use statistics for social good in ways that intersect with their interests. 
 
 <!--During my time at Northwestern, I have been funded as a Pre-doctoral Fellow in the [Institute of Education Sciences (IES) multi-disciplinary research training program](https://ies.ed.gov/funding/grantsearch/details.asp?ID=1463) and a Graduate Research Assistant with Northwestern's [Institute for Policy Research](https://www.ipr.northwestern.edu). I am a member of the [Statistics for Evidence-Based Policy and Practice (STEPP) Center](https://stepp.center) Lab, led by Drs. [Beth Tipton](https://www.bethtipton.com) and [Larry Hedges](https://www.ipr.northwestern.edu/faculty-experts/fellows/hedges.html). -->
 
-When I’m not doing statistics, you can find me at Northwestern’s gorgeous lakefront, biking, hammocking, reading, or indulging in good food. I am also an active member of Northwestern’s [Graduate Christian Fellowship](http://studentorgs.northwestern.edu/gcf/), serving as small group coordinator and facilitator.
+<!--When I’m not doing statistics, you can find me at Northwestern’s gorgeous lakefront, biking, hammocking, reading, or indulging in good food. I am also an active member of Northwestern’s [Graduate Christian Fellowship](http://studentorgs.northwestern.edu/gcf/), serving as small group coordinator and facilitator.-->

@@ -12,6 +12,11 @@
     name = "Teaching"
     url = "teaching/"
     weight = 15
+    
+  [[main]]
+    name = "Research"
+    url = "research/"
+    weight = 18
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
