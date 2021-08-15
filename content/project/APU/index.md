@@ -18,5 +18,6 @@ slides: ""
 ---
 
 Courses taught:
+
 + MATH 130 - Introduction to Statistics (Fall 2021)
 + MATH 361 - Probability & Statistics I (Fall 2021)
