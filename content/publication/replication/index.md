@@ -3,7 +3,7 @@ title: "An evaluation of statistical methods for aggregate patterns of replicati
 authors: ["Jacob M. Schauer", admin, "Sarah Peko-Spicer", "Mena C.R. Whalen", "Rrita Zejnullahi", "Larry V.Hedges"]
 
 date: "2021-03-19T00:00:00Z"
-doi: "10.1214/20-AOAS1387"
+#doi: "10.1214/20-AOAS1387"
 url: "https://projecteuclid.org/journals/annals-of-applied-statistics/volume-15/issue-1/An-evaluation-of-statistical-methods-for-aggregate-patterns-of-replication/10.1214/20-AOAS1387.short"
 
 # Schedule page publish date (NOT publication's date).
