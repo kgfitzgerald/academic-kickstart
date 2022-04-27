@@ -4,7 +4,7 @@ authors:
 - admin
 - Elizabeth Tipton
 date: "2022-03-14T00:00:00Z"
-doi: "https://www.tandfonline.com/doi/abs/10.1080/19345747.2022.2031366"
+doi: "https://doi.org/10.1080/19345747.2022.2031366"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
