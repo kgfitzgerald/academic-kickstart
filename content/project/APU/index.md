@@ -19,6 +19,8 @@ slides: ""
 
 Courses taught:
 
-+ MATH 130 - Introduction to Statistics (Fall 2021, Spring 2022)
-+ MATH 361 - Probability & Statistics I (Fall 2021)
-+ STAT 511 - Applied Regression Analysis (Spring 2022)
++ MATH 130 - Introduction to Statistics (F21, S22, F22)
++ MATH 250 - Data Analysis (F22)
++ MATH 361 - Probability & Statistics I (F21, S22)
++ MATH 362 - Mathematical Statistics (F22)
++ STAT 511 - Applied Regression Analysis (S22)

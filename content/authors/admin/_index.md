@@ -21,11 +21,11 @@ organizations:
 #bio: My research interests include statistical methods for synthesizing and translating #evidence in the social policy decision-making context.
 
 interests:
-- Meta-analysis
-- Social policy
 - Data visualization
 - Statistical cognition
 - Statistics education
+- Meta-analysis
+- Social policy
 
 education:
   courses:
@@ -57,9 +57,9 @@ social:
 #- icon: google-scholar
   #icon_pack: ai
   #link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-#- icon: github
-  #icon_pack: fab
-  #link: https://github.com/kgfitzgerald
+- icon: github
+  icon_pack: fab
+  link: https://github.com/kgfitzgerald
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "kfitzgerald@apu.edu"
@@ -71,7 +71,7 @@ email: "kfitzgerald@apu.edu"
 #- Visitors
 ---
 
-I am a problem solver, critical thinker, interdisciplinary researcher, and statistics educator serving as an Assistant Professor at [Azusa Pacific University](https://www.apu.edu). 
+I am a statistics educator and interdisciplinary researcher serving as an Assistant Professor at [Azusa Pacific University](https://www.apu.edu). I'm part of the Project NExT Red '22 cohort. 
 
 I have a heart for undergraduate statistics education, which I think offers exciting opportunities to teach and to learn how to be better [*stewards of information*](https://katie-fitzgerald.netlify.app/teaching/). My research focuses on methods for evaluating, synthesizing, and translating statistical evidence in the social sciences, with particular experience in education policy and global development applications. This includes work in the areas of meta-analysis, data visualization, and statistical cognition. I love engaging in interdisciplinary work and helping students discover how to use statistics for social good in ways that intersect with their interests. 
 
