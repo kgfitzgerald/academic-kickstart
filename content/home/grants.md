@@ -15,6 +15,10 @@ subtitle = ""
 
 - **Co-Principal Investigator**, HSI Pilot Project: Impact of Learning Assistants onvSTEM Identity for Students Historically Underrepresented in STEM. National Science Foundation, with Bradley McCoy (PI) and Elijah Roth (Co-PI). Award Number: 2247670. Funding: $199,991.
 
+**2024**
+
+- **Co-Principal Investigator**, NSF IUSE HSI Planning Grant: Impact of Learning Assistants on STEM Identity for Students Historically Underrepresented in STEM. Faculty Research Council Planning Grant, Azusa Pacific University, with Bradley McCoy (PI) and Elijah Roth (Co-PI). Funding: $3,687.
+
 **2022 - 2024**
 
 - **Principal Investigator**, Statistical cognition and visualization of meta-analytic data for education research. Faculty Research Council Grant, Azusa Pacific University. Funding: $6,000.

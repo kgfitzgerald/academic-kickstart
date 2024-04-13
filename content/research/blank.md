@@ -10,7 +10,7 @@ title = "Research"
   columns = 1
 +++
 
-My research focuses on methods for evaluating, synthesizing, and translating statistical evidence in the social sciences, with particular experience in education policy and global development applications. This includes work in the areas of meta-analysis, data visualization, statistical cognition, and knowledge mobilization. 
+My research focuses on methods for synthesizing and communicating statistical evidence in the social sciences, with particular experience in education policy and global development applications. This includes work in the areas of meta-analysis, data visualization, statistical cognition, and knowledge mobilization. 
 
 I also utilize my statistical expertise to collaborate with other STEM educators to evaluate classroom-, department-, and college-level interventions to improve student learning in the university setting. 
 
