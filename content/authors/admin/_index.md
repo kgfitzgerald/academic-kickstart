@@ -22,10 +22,10 @@ organizations:
 
 interests:
 - Data visualization
+- Knowledge mobilization
 - Statistical cognition
-- Statistics education
 - Meta-analysis
-- Social policy
+- Education research
 
 education:
   courses:
@@ -71,9 +71,9 @@ email: "kfitzgerald@apu.edu"
 #- Visitors
 ---
 
-I am a statistics educator and interdisciplinary researcher serving as an Assistant Professor at [Azusa Pacific University](https://www.apu.edu). I'm part of the Project NExT Red '22 cohort. 
+I am a statistics educator and interdisciplinary researcher serving as an Assistant Professor at [Azusa Pacific University](https://www.apu.edu). 
 
-I have a heart for undergraduate statistics education, which I think offers exciting opportunities to teach and to learn how to be better [*stewards of information*](https://katie-fitzgerald.netlify.app/teaching/). My research focuses on methods for evaluating, synthesizing, and translating statistical evidence in the social sciences, with particular experience in education policy and global development applications. This includes work in the areas of meta-analysis, data visualization, and statistical cognition. I love engaging in interdisciplinary work and helping students discover how to use statistics for social good in ways that intersect with their interests. 
+I have a heart for undergraduate statistics education, which I think offers exciting opportunities to teach and to learn how to be better [*stewards of information*](https://katie-fitzgerald.netlify.app/teaching/). My research focuses on methods for communicating and synthesizing statistical evidence in the social sciences, with particular experience in education policy and global development applications. This includes work in the areas of meta-analysis, data visualization, statistical cognition, and knowledge mobilization. I also utilize my statistical expertise to collaborate with other STEM educators to evaluate classroom-, department-, and college-level interventions to improve student learning in the university setting. I love engaging in interdisciplinary work and helping students discover how to use statistics for social good in ways that intersect with their interests. 
 
 <!--During my time at Northwestern, I have been funded as a Pre-doctoral Fellow in the [Institute of Education Sciences (IES) multi-disciplinary research training program](https://ies.ed.gov/funding/grantsearch/details.asp?ID=1463) and a Graduate Research Assistant with Northwestern's [Institute for Policy Research](https://www.ipr.northwestern.edu). I am a member of the [Statistics for Evidence-Based Policy and Practice (STEPP) Center](https://stepp.center) Lab, led by Drs. [Beth Tipton](https://www.bethtipton.com) and [Larry Hedges](https://www.ipr.northwestern.edu/faculty-experts/fellows/hedges.html). -->
 
