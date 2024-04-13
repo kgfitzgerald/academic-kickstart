@@ -11,13 +11,21 @@ subtitle = ""
 
 +++
 
-- **(2023) Dex Whittinghill III Award for the Best Contributed Paper on Statistics and 
-Data Science Education**, Mathematical Association of America, MathFest 
+**2023**
 
-- **(2022) Project NExT Fellow**, Red '22 Cohort, Mathematical Association of America
+- Dex Whittinghill III Award for the Best Contributed Paper on Statistics and 
+Data Science Education, Mathematical Association of America, MathFest 
 
-- **(2021) Young Alumni Award**, Olivet Nazarene University
+**2022 - 2023**
 
-- **(2017 - 2020) Multi-disciplinary Program in Education Sciences (MPES) Fellowship**, 
+- Project NExT Fellow, Red '22 Cohort, Mathematical Association of America
+
+**2021**
+
+- Young Alumni Award, Olivet Nazarene University
+
+**2017 - 2020**
+
+- Multi-disciplinary Program in Education Sciences (MPES) Fellowship, 
 U.S. Department of Education, Institute of Education Sciences. 
 
