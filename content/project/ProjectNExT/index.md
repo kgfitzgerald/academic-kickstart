@@ -1,6 +1,6 @@
 ---
 title: Project NeXT Fellow
-summary: Mathematical Association of America's (MAA) Project NExT (New Experiences in Teaching), a year-long professional development program for early career faculty in the mathematical sciences, with an emphasis on inclusive pedagogy. 
+summary: MAA's [Project NExT](https://maa.org/maa-project-next/) (New Experiences in Teaching), Red '22 Cohort. A year-long professional development program for early career faculty in the mathematical sciences, with an emphasis on inclusive pedagogy. 
 
 # Optional external URL for project (replaces project detail page).
 external_link: "https://nustat.github.io/intro-stat-ds/"
