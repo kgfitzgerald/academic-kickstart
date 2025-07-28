@@ -1,6 +1,6 @@
 ---
 title: Assistant Professor
-summary: Teach statistics courses in the Department of Mathematics, Physics, & Statistics
+summary: Design & teach statistics courses in the Department of Mathematics, Physics, & Statistics
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -16,6 +16,8 @@ image:
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+
+Developed interdisciplinary [Data Science minor](https://www.apu.edu/programs/data-science-minor/) and Statistics & Data Science concentration for Applied Mathematics major.
 
 Courses taught:
 

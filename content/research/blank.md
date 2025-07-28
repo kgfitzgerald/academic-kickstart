@@ -16,4 +16,4 @@ I also utilize my statistical expertise to collaborate with other STEM educators
 
 Check out my recent [publications](https://katie-fitzgerald.netlify.app/#publications) and [grants](https://katie-fitzgerald.netlify.app/#grants) on the home page, or on my [CV](https://katie-fitzgerald.netlify.app/files/cv.pdf).
 
-If you are an APU undergraduate student interested in statistics or data science research opportunities, please send me an email so we can set up a time to chat. See below for research previous undergraduate students have conducted with me.
+If you are a Villanova student interested in statistics or data science research opportunities, please send me an email so we can set up a time to chat. See below for research previous undergraduate students have conducted with me.

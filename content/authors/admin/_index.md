@@ -14,8 +14,8 @@ role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
-- name: Department of Mathematics, Physics, & Statistics Azusa Pacific University
-  url: "https://www.apu.edu/clas/mathphysics/"
+- name: Villanova University, Department of Mathematics & Statistics
+  url: "https://www1.villanova.edu/university/liberal-arts-sciences/programs/mathematics-statistics.html"
 
 # Short bio (displayed in user profile at end of posts)
 #bio: My research interests include statistical methods for synthesizing and translating #evidence in the social policy decision-making context.
@@ -49,7 +49,7 @@ social:
   link: files/cv.pdf
 - icon: envelope
   icon_pack: fas
-  link: "mailto:kfitzgerald@apu.edu"  
+  link: "mailto:kaitlyn.fitzgerald@villanova.edu"  
 
 - icon: twitter
   icon_pack: fab
@@ -62,7 +62,7 @@ social:
   link: https://github.com/kgfitzgerald
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "kfitzgerald@apu.edu"
+email: "kaitlyn.fitzgerald@villanova.edu"
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
@@ -71,7 +71,7 @@ email: "kfitzgerald@apu.edu"
 #- Visitors
 ---
 
-I am a statistics educator and interdisciplinary researcher serving as an Assistant Professor at [Azusa Pacific University](https://www.apu.edu). 
+I am a statistics educator and interdisciplinary researcher serving as an Assistant Professor at [Villanova University](https://www1.villanova.edu/university.html). 
 
 I have a heart for undergraduate statistics education, which I think offers exciting opportunities to teach and to learn how to be better [*stewards of information*](https://katie-fitzgerald.netlify.app/teaching/). My research focuses on methods for communicating and synthesizing statistical evidence in the social sciences, with particular experience in education policy and global development applications. This includes work in the areas of meta-analysis, data visualization, statistical cognition, and knowledge mobilization. I also utilize my statistical expertise to collaborate with other STEM educators to evaluate classroom-, department-, and college-level interventions to improve student learning in the university setting. I love engaging in interdisciplinary work and helping students discover how to use statistics for social good in ways that intersect with their interests. 
 
