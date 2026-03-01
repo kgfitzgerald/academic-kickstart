@@ -11,7 +11,9 @@
     <p class="pub-abstract" itemprop="text">{{ .Params.abstract | markdownify }}</p>
     {{ end }}
 
-    {{ if (.Params.publication_types) and (ne (index .Params.publication_types 0) "0") }}
+    {{/* --- SAFE publication_types handling --- */}}
+    {{ $pt := .Params.publication_types }}
+    {{ if and $pt (reflect.IsSlice $pt) (gt (len $pt) 0) (ne (index $pt 0) "0") }}
     <div class="row">
       <div class="col-md-1"></div>
       <div class="col-md-10">
@@ -19,7 +21,7 @@
           <div class="col-12 col-md-3 pub-row-heading">{{ i18n "publication_type" }}</div>
           <div class="col-12 col-md-9">
             {{ $pub_types := partial "functions/get_pub_types" $ }}
-            {{ range $index, $pubtype := .Params.publication_types }}
+            {{ range $index, $pubtype := $pt }}
             <a href="{{ (site.GetPage "section" "publication").RelPermalink }}#{{ . | urlize }}">
               {{ index $pub_types (int .) }}
             </a>
