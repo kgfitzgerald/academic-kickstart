@@ -6,16 +6,11 @@ headless = true  # This file represents a page section.
 active = true # Activate this widget? true/false
 weight = 60  # Order that this section will appear.
 
-title = "Working Papers & Books"
+title = "Working Papers"
 subtitle = ""
 
 +++
 
-- **Fitzgerald, K.G.**, Gurrola, J., Hsieh, J., & Tran, T. SCORE Module: What’s  
-the prime age of an MLB baseball player? Under review.  
+- **Fitzgerald, K.G.**, Roth, E., McCoy, B., Knee, E., Walker, C., Knee, K. Learning Assistants as a pedagogical model to improve teaching practices and student outcomes in post-secondary statistics classrooms. Under Review.
 
-- **Fitzgerald, K.G.**, Gurrola, J., Hsieh, J., & Tran, T. SCORE Module: Volleyball NCAA Division I. Under review. 
-
-- Ismay, C., Kim, A., Kuyper, A., Tipton, E. & **Fitzgerald, K. G.**
-Introduction to Statistics and Data Science: A moderndive into R and the tidyverse. https://nustat.github.io/intro-stat-ds/
-
+- Arvidson, M., Conner, Z, Friedman, J. & **Fitzgerald, K.G.** Attitudes and Beliefs of Pre-service Teachers of Elementary Mathematics. Under Review.
