@@ -1,6 +1,6 @@
 ---
 title: "The Meta-Analytic Rain Cloud Plot: A New Approach to Visualizing Clearinghouse Data"
-authors: ["admin""]
+authors: ["admin"]
 publication_authors:
 - Kaitlyn G. Fitzgerald
 - Elizabeth Tipton

@@ -1,6 +1,6 @@
 ---
 title: "Using Extant Data to Improve Estimation of the Standardized Mean Difference"
-authors: ["admin""]
+authors: ["admin"]
 publication_authors:
 - Kaitlyn G. Fitzgerald
 - Elizabeth Tipton

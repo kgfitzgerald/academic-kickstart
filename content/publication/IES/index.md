@@ -1,6 +1,6 @@
 ---
 title: "Towards a System of Evidence for All: Current Practices and Future Opportunities in 37 Randomized Trials"
-authors: ["admin""]
+authors: ["admin"]
 publication_authors:
 - Elizabeth Tipton
 - Jessaca Spybrook
