@@ -1,7 +1,8 @@
 ---
 title: "A knowledge mobilization framework: Towards more evidence-based statistical communication practices in education research"
-authors: 
-- admin
+authors: ["admin""]
+publication_authors:
+- Kaitlyn G. Fitzgerald
 - Elizabeth Tipton
 date: "2023-05-22T00:00:00Z"
 doi: "https://doi.org/10.1080/19345747.2023.2209082"

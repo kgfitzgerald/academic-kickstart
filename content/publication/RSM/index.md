@@ -1,7 +1,9 @@
 ---
 title: "Meta-Analytic Rain Cloud Plots: Improving Evidence Communication Through Data Visualization Design Principles"
-authors: 
-- admin
+authors: ["admin"]
+
+publication_authors:
+- Kaitlyn G. Fitzgerald
 - David Khella
 - Avery Charles
 - Elizabeth Tipton

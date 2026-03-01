@@ -1,8 +1,10 @@
 ---
 title: "Geophagy among a cohort of Kenyan women with mixed HIV status: a longitudinal analysis"
-authors: 
+authors: ["admin"]
+
+publication_authors:
 - Joshua D. Miller
-- admin
+- Kaitlyn G. Fitzgerald
 - Abigail L. Smith
 - Sera L. Young
 date: "2019-09-04T00:00:00Z"
