@@ -23,6 +23,14 @@ subtitle = ""
 
 ***Internal Funding***
 
+**2026**
+
+- Course Development Grant in UNITAS: Inclusive Education, Villanova University, College of Liberal Arts & Sciences. Undergraduate course: Statistics for Human Rights. Funding: $2,500.
+
+**2025**
+
+- Faculty Research & Development Grant, Villanova University, College of Liberal Arts & Sciences. Travel to present research at International Conference on Teaching Statistics. Funding: $3,500.
+
 **2024**
 
 - **Co-Principal Investigator**, NSF IUSE HSI Planning Grant: Impact of Learning Assistants on STEM Identity for Students Historically Underrepresented in STEM. Faculty Research Council Planning Grant, Azusa Pacific University, with Bradley McCoy (PI) and Elijah Roth (Co-PI). Funding: $3,687.
