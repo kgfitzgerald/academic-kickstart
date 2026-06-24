@@ -1,6 +1,13 @@
 ---
 title: "Learning Assistants as a pedagogical model to improve teaching practices and student outcomes in post-secondary statistics classrooms"
-authors: ["admin"]
+
+authors:
+- "Kaitlyn G. Fitzgerald"
+- "Elijah Roth"
+- "Bradley McCoy"
+- "Evan Knee"
+- "Caylee Walker"
+- "Karstin Knee"
 
 publication_authors:
 - Kaitlyn G. Fitzgerald
