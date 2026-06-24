@@ -1,14 +1,12 @@
 ---
 title: "An evaluation of statistical methods for aggregate patterns of replication failure"
-authors: ["admin"]
-
-publication_authors:
-- Jacob M. Schauer
-- Kaitlyn G. Fitzgerald
-- Sarah Peko-Spicer
-- Mena C.R. Whalen
-- Rrita Zejnullahi
-- Larry V. Hedges
+authors: 
+- "Jacob M. Schauer"
+- "Kaitlyn G. Fitzgerald"
+- "Sarah Peko-Spicer"
+- "Mena C.R. Whalen"
+- "Rrita Zejnullahi"
+- "Larry V. Hedges"
 date: "2021-03-19T00:00:00Z"
 doi: "10.1214/20-AOAS1387"
 url: "projecteuclid.org/journals/annals-of-applied-statistics/volume-15/issue-1/An-evaluation-of-statistical-methods-for-aggregate-patterns-of-replication/10.1214/20-AOAS1387.short"

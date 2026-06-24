@@ -1,12 +1,11 @@
 ---
 title: "Towards a System of Evidence for All: Current Practices and Future Opportunities in 37 Randomized Trials"
-authors: ["admin"]
-publication_authors:
-- Elizabeth Tipton
-- Jessaca Spybrook
-- Kaitlyn G. Fitzgerald
-- Qian Wang
-- Caryn Davidson
+authors: 
+- "Elizabeth Tipton"
+- "Jessaca Spybrook"
+- "Kaitlyn G. Fitzgerald"
+- "Qian Wang"
+- "Caryn Davidson"
 
 date: "2020-09-18T00:00:00Z"
 doi: "https://doi.org/10.3102/0013189X20960686"
