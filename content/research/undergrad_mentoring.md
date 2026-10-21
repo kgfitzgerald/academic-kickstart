@@ -11,7 +11,9 @@ subtitle = ""
 
 +++
 
-- **Spring - Summer 2025** (two undergraduate students): Developing and evaluating tools for communicating statistical evidence to education decision-makers. Students collaborated with me to design and implement statistical cognition experiments for evaluating meta-analytic visualizations. This is part of [IES Award R305D240023](https://ies.ed.gov/use-work/awards/developing-and-evaluating-tools-communicating-statistical-evidence-education-decision-makers)
+- **Fall 2026** (three undergraduate students): Statistics & Human Rights. Students collaborate with me to build a repository of the human rights statistics literature and conduct analyses to investigate the landscape of the field.
+
+- **Spring 2025 - Summer 2027** (four undergraduate students, 2 graduate students): Developing and evaluating tools for communicating statistical evidence to education decision-makers. Students collaborate with me to build communication tools and conduct statistical cognition experiments for communicating statistical evidence. This is part of [IES Award R305D240023](https://ies.ed.gov/use-work/awards/developing-and-evaluating-tools-communicating-statistical-evidence-education-decision-makers)
 
 - **Summer 2024, 2025** (two undergraduate students): Impact of Learning Assistants on STEM Identity for Students Historically Underrepresented in STEM. Students collaborate with me to analyze survey and administrative data collected on APU students in 100-level STEM courses. This is part of [NSF Award # 2247670](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2247670&HistoricalAwards=false).
 

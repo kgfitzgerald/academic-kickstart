@@ -19,5 +19,7 @@ slides: ""
 
 Courses taught:
 
-+ STAT 5700: Probability (F25)
-+ STAT 7500: Statistical Programming (F25)
++ STAT 4380: Data Science (S26, F26)
++ STAT 5700: Probability (F25, S26)
++ STAT 7500: Statistical Programming (F25, F26)
++ MAT 1000: Math & Stat Communities (F26)
